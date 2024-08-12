@@ -1,8 +1,7 @@
-# ArvoreBinaria
 
 # Árvore Binária em Java
 
-Este repositório contém uma implementação de uma árvore binária em Java com funcionalidades básicas de inserção e remoção de nós. A árvore binária permite operações fundamentais de manipulação e travessia, oferecendo uma maneira eficiente de armazenar e gerenciar dados hierárquicos.
+Este repositório contém uma implementação de uma árvore binária em Java com funcionalidades básicas de inserção e remoção de nós.
 
 ## Funcionalidades
 
@@ -20,5 +19,7 @@ Este repositório contém uma implementação de uma árvore binária em Java co
 
 
 
+
+# ÁrvoreBase
 
 ![ÁrvoreBase](https://github.com/user-attachments/assets/e1f81cdd-424d-48a1-9744-ea1ff78b5909)
