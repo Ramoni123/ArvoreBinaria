@@ -9,8 +9,10 @@ public class Main {
         arvoreBinaria.inserir(4);
         arvoreBinaria.inserir(62);
         arvoreBinaria.inserir(89);
-        arvoreBinaria.RemoverNoFolha(7);
-        arvoreBinaria.RemoverNoFilhoEsquerda(5);
+        arvoreBinaria.RemoverNoDoisFilhos(17);
+        arvoreBinaria.RemoverNoFolha(89);
+        arvoreBinaria.RemoverNoFilhoDireita(3);
+        arvoreBinaria.RemoverNoDoisFilhos(5);
         System.out.println("Pré-ordem: ");
         arvoreBinaria.preOrdem(arvoreBinaria.getRaiz());
         System.out.println("Em ordem: ");

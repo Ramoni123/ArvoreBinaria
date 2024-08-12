@@ -158,7 +158,7 @@ public class ArvoreBinaria {
 
         return false;
     }
-    
+
     public boolean RemoverNoDoisFilhos(int valor) {
 
         No atual = this.raiz;
