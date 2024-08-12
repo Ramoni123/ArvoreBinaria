@@ -5,9 +5,6 @@ Este repositório contém uma implementação de uma árvore binária em Java co
 
 ## Funcionalidades
 
-### Inserção de Nós
-
-- **inserir(int valor)**: Adiciona um novo nó com o valor especificado na árvore binária. O novo nó é inserido na posição correta para manter a propriedade da árvore binária de busca.
 
 ### Remoção de Nós
 
@@ -20,6 +17,6 @@ Este repositório contém uma implementação de uma árvore binária em Java co
 
 
 
-# ÁrvoreBase
+## ÁrvoreBase
 
 ![ÁrvoreBase](https://github.com/user-attachments/assets/e1f81cdd-424d-48a1-9744-ea1ff78b5909)
