@@ -15,7 +15,7 @@ Este repositório contém uma implementação de uma árvore binária em Java co
   
 - **RemoverNoUmFilho(int valor)**: Remove um nó que possui exatamente um filho. Dependendo se o filho está à esquerda ou à direita, o nó é removido e o filho é conectado diretamente ao pai do nó removido.
   
-- **RemoverNoDoisFilhos(int valor)**: Remove um nó que possui dois filhos. O nó é substituído pelo menor valor na subárvore direita (o sucessor), e o sucessor é então removido.
+- **RemoverNoDoisFilhos(int valor)**: Remove um nó que possui dois filhos. O nó é substituído pelo menor valor na subárvore direita.
 
 
 
